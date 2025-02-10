@@ -42,4 +42,4 @@ print(f"Decrypted flag: {flag.decode()}")
 
 ```
 
-## Flag : AKASEC{simple_rsaf_bash_tfhmoha_mzn}
+## flag : AKASEC{simple_rsaf_bash_tfhmoha_mzn}
