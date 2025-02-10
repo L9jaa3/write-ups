@@ -40,4 +40,4 @@ for seed in range(1, 1001):
         break
 ```
 
-## Flag : AKASEC{ahya_xni_3ndk_al3ayl} 
+## flag : AKASEC{ahya_xni_3ndk_al3ayl} 
