@@ -4,7 +4,7 @@
 ![Alt text](./pic's/big_vulnerable_part.png)
 
 ##### Where is the vulnerability?  
-Yeah, the check requires the username to be **over 47 billion characters**, which is obviously impossible to send normally.
+Yeah, its Prototype Pollution Vulnerability ,the check requires the username to be **over 47 billion characters**, which is obviously impossible to send normally.
 
 ##### But if you look closely, the server uses Express with the well-known parsing library **qs**:
 ![Alt text](./pic's/prove.png)
